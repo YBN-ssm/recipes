@@ -1,4 +1,4 @@
-# Guacamole
+# Guacamole recipe
 ## Ingredients
 * avocado 1   GBP/pc
 * lime    0.5 GBP/pc
